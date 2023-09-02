@@ -1,0 +1,26 @@
+body {
+    background-image: url(./bg\ image.jpg);
+}
+.form {
+    border-radius: 6px;
+    background-color: rgb(253, 253, 253);
+    margin: 30px 80px 80px 80px;
+    height: 500px;
+    width: 400px;
+    position: relative;
+    
+}
+.input {
+    padding: 10px 10px 10px 10px;
+    width: 300px;
+}
+.select {
+    padding: 10px 10px 10px 10px;
+    width: 324px;
+}
+.button {
+    padding: 10px 10px 10px 10px;
+    width: 324px;
+    background-color: rgb(8, 8, 184);
+    color: white;
+}

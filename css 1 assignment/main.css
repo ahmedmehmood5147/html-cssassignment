@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+table tr th a {
+    text-decoration: none;
+    color: black;
+    margin: 20px 20px 20px;
+}
+table tr th a:hover{
+    color: red;
+}
+.image1 {
+    height: 300px;
+    width: 300px;
+    display: flexbox;
+    margin-top: 20px;
+}

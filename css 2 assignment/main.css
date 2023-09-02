@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(226, 224, 224);
+    margin: 0%;
+    padding: 0%;
+}
+h1 {
+    font-size: 50px;
+    color: rgb(22, 154, 236);
+}
+.div1 {
+    padding: 100px 70px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px 30px 30px;
+
+}
+.div2 {
+    margin-top: 80px;
+    background-color: white;
+    height: 350px;
+    width: 300px;
+    padding: 0px 50px;
+}
+.input {
+    padding: 12px;
+    width: 250px;
+    background-color: white;
+    border: 1;
+    border-radius: 10px;
+}
+button {
+    padding: 12px;
+    width: 277px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(22, 154, 236);
+}
+p {
+    color: rgb(22, 154, 236);
+    background-color: white;
+}
+.button1 {
+    color: white;
+    background-color: rgb(88, 243, 88);
+    width: 150px;
+}
